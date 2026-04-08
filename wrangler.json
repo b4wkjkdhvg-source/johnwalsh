@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "johnwalsh",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "efa4359f-7b36-4f28-8518-7feb7aea47bc",
+			"database_name": "d1-template-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
